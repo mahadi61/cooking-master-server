@@ -1,0 +1,56 @@
+[
+  {
+    "chef_id": 1,
+    "chef_picture": "https://i.ibb.co/T2jySVk/chef-1.png",
+    "chef_name": "Rohit Shing",
+    "years_of_experience": 10,
+    "num_of_recipes": 10,
+    "likes": 1000,
+    "chef_short_bio": "Rohit Shing is an experienced chef with a passion for creating delicious meals that everyone can enjoy."
+  },
+  {
+    "chef_id": 2,
+    "chef_picture": "https://example.com/chef2.jpg",
+    "chef_name": "Emily Chaddy",
+    "years_of_experience": 5,
+    "num_of_recipes": 6,
+    "likes": 500,
+    "chef_short_bio": "Emily Chaddy is a talented chef who loves experimenting with new flavors and techniques to create innovative dishes."
+  },
+  {
+    "chef_id": 3,
+    "chef_picture": "https://example.com/chef3.jpg",
+    "chef_name": "David Sing",
+    "years_of_experience": 8,
+    "num_of_recipes": 9,
+    "likes": 800,
+    "chef_short_bio": "David Sing is a skilled chef who focuses on using fresh, locally sourced ingredients to create healthy and delicious meals."
+  },
+  {
+    "chef_id": 4,
+    "chef_picture": "https://example.com/chef4.jpg",
+    "chef_name": "Mohit Sharma",
+    "years_of_experience": 12,
+    "num_of_recipes": 5,
+    "likes": 1200,
+    "chef_short_bio": "Mohit Sharma is a renowned chef who specializes in creating elegant and sophisticated dishes for special occasions."
+  },
+  {
+    "chef_id": 5,
+    "chef_picture": "https://example.com/chef5.jpg",
+    "chef_name": "Mahendra",
+    "years_of_experience": 7,
+    "num_of_recipes": 8,
+    "likes": 900,
+    "chef_short_bio": "Mahendra is a creative chef who enjoys experimenting with different flavors and techniques to create unique and memorable dishes."
+  },
+  {
+    "chef_id": 6,
+    "chef_picture": "https://example.com/chef6.jpg",
+    "chef_name": "Bijoy Roy",
+    "years_of_experience": 9,
+    "num_of_recipes": 5,
+    "likes": 1500,
+    "chef_short_bio": "Bijoy Roy is a passionate chef who believes that food should be both delicious and nutritious, and strives to create meals that are both healthy and satisfying."
+  }
+]

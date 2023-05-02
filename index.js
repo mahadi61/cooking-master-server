@@ -3,10 +3,10 @@ const app = express();
 
 const port = process.env.port || 5000;
 
-
+const chef = require('./data/chef.json');
 
 app.get('/', (req, res)=>{
-    res.send("You get the data");
+    res.send(chef);
 })
 
 
