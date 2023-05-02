@@ -10,7 +10,7 @@
   },
   {
     "chef_id": 2,
-    "chef_picture": "https://example.com/chef2.jpg",
+    "chef_picture": "https://i.ibb.co/h217Mt9/chef-2.png",
     "chef_name": "Emily Chaddy",
     "years_of_experience": 5,
     "num_of_recipes": 6,
@@ -19,7 +19,7 @@
   },
   {
     "chef_id": 3,
-    "chef_picture": "https://example.com/chef3.jpg",
+    "chef_picture": "https://i.ibb.co/vBypVYS/chef-3.png",
     "chef_name": "David Sing",
     "years_of_experience": 8,
     "num_of_recipes": 9,
@@ -28,7 +28,7 @@
   },
   {
     "chef_id": 4,
-    "chef_picture": "https://example.com/chef4.jpg",
+    "chef_picture": "https://i.ibb.co/vhQwMGG/chef-4.jpg",
     "chef_name": "Mohit Sharma",
     "years_of_experience": 12,
     "num_of_recipes": 5,
@@ -37,7 +37,7 @@
   },
   {
     "chef_id": 5,
-    "chef_picture": "https://example.com/chef5.jpg",
+    "chef_picture": "https://i.ibb.co/WHpgHr5/chef-5.jpg",
     "chef_name": "Mahendra",
     "years_of_experience": 7,
     "num_of_recipes": 8,
@@ -46,7 +46,7 @@
   },
   {
     "chef_id": 6,
-    "chef_picture": "https://example.com/chef6.jpg",
+    "chef_picture": "https://i.ibb.co/tmGQhJ3/chef-6.png",
     "chef_name": "Bijoy Roy",
     "years_of_experience": 9,
     "num_of_recipes": 5,
