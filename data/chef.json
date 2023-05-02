@@ -42,7 +42,7 @@
     "years_of_experience": 7,
     "num_of_recipes": 8,
     "likes": 900,
-    "chef_short_bio": "Mahendra is a creative chef who enjoys experimenting with different flavors and techniques to create unique and memorable dishes."
+    "chef_short_bio": "Mahendra is a creative chef who enjoys experimenting with different flavors and techniques to create unique dishes."
   },
   {
     "chef_id": 6,
@@ -51,6 +51,6 @@
     "years_of_experience": 9,
     "num_of_recipes": 5,
     "likes": 1500,
-    "chef_short_bio": "Bijoy Roy is a passionate chef who believes that food should be both delicious and nutritious, and strives to create meals that are both healthy and satisfying."
+    "chef_short_bio": "Bijoy Roy is a passionate chef who believes that food should be both delicious that are both healthy and satisfying."
   }
 ]

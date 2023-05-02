@@ -9,7 +9,7 @@
   },
   {
     "chef_id": 1,
-    "recipe_id": "indian_recipe_002",
+    "recipe_id": "002",
     "recipe_name": "Palak Paneer",
     "ingredients": ["spinach", "paneer", "onion", "tomato", "spices"],
     "cooking_method": "Sauté onion and tomato in oil.Add spinach and spices.Purée mixture.Cook paneer in sauce. Serve with rice or naan.",
@@ -17,7 +17,7 @@
   },
   {
     "chef_id": 1,
-    "recipe_id": "indian_recipe_003",
+    "recipe_id": "003",
     "recipe_name": "Chana Masala",
     "ingredients": ["chickpeas", "tomatoes", "onion", "spices", "coriander"],
     "cooking_method": "Sauté onion and spices in oil. Add chickpeas and tomatoes. Simmer until thickened.Garnish with coriander. Serve with rice or naan.",
@@ -25,7 +25,7 @@
   },
   {
     "chef_id": 1,
-    "recipe_id": "indian_recipe_004",
+    "recipe_id": "004",
     "recipe_name": "Chicken Tikka Masala",
     "ingredients": ["chicken", "tomatoes", "onion", "cream", "spices"],
     "cooking_method": " Marinate chicken in spices and yogurt. Grill chicken. Sauté onion and spices in oil. Add tomatoes and cream. Add cooked chicken. Serve with rice or naan.",
@@ -33,7 +33,7 @@
   },
   {
     "chef_id": 2,
-    "recipe_id": "indian_recipe_005",
+    "recipe_id": "005",
     "recipe_name": "Aloo Gobi",
     "ingredients": ["potatoes", "cauliflower", "onion", "spices", "coriander"],
     "cooking_method": "Sauté onion and spices in oil. Add potatoes and cauliflower.Simmer until tender. Garnish with coriander. Serve with rice or naan.",
@@ -41,7 +41,7 @@
   },
   {
     "chef_id": 2,
-    "recipe_id": "indian_recipe_006",
+    "recipe_id": "006",
     "recipe_name": "Dal Makhani",
     "ingredients": [
       "black lentils",
@@ -55,7 +55,7 @@
   },
   {
     "chef_id": 2,
-    "recipe_id": "indian_recipe_002",
+    "recipe_id": "007",
     "recipe_name": "Chicken Masala",
     "ingredients": ["chicken", "tomato", "cream", "spices", "butter"],
     "cooking_method": " Marinate chicken in yogurt and spices.  Grill or bake chicken.  Simmer tomato, cream, butter, and spices.  Add cooked chicken.  Serve with rice or naan.",
@@ -63,7 +63,7 @@
   },
   {
     "chef_id": 2,
-    "recipe_id": "indian_recipe_003",
+    "recipe_id": "008",
     "recipe_name": "Paneer Tikka",
     "ingredients": [
       "paneer",
@@ -77,7 +77,7 @@
   },
   {
     "chef_id": 3,
-    "recipe_id": "indian_recipe_004",
+    "recipe_id": "009",
     "recipe_name": "Samosas",
     "ingredients": ["potato", "peas", "spices", "flour", "oil"],
     "cooking_method": " Make dough with flour and water.  Cook potato and peas with spices.  Fill dough with potato mixture. Fry in oil.  Serve with tamarind chutney.",
@@ -85,7 +85,7 @@
   },
   {
     "chef_id": 3,
-    "recipe_id": "indian_recipe_005",
+    "recipe_id": "0010",
     "recipe_name": "Chana Masala",
     "ingredients": ["chickpeas", "tomato", "onion", "spices", "lemon juice"],
     "cooking_method": " Cook chickpeas until tender.  Simmer tomato, onion, and spices.  Add cooked chickpeas.  Serve with rice or naan.",
@@ -93,7 +93,7 @@
   },
   {
     "chef_id": 3,
-    "recipe_id": "indian_recipe_006",
+    "recipe_id": "0011",
     "recipe_name": "Palak Paneer",
     "ingredients": ["paneer", "spinach", "cream", "spices", "onion"],
     "cooking_method": " Cook spinach and blend to make puree.  Simmer onion, cream, spices, and paneer.  Add spinach puree.  Serve with rice or naan.",
@@ -101,7 +101,7 @@
   },
   {
     "chef_id": 3,
-    "recipe_id": "indian_recipe",
+    "recipe_id": "0012",
     "recipe_name": "Dal Makhani",
     "ingredients": [
       "black lentils",
@@ -115,7 +115,7 @@
   },
   {
     "chef_id": 4,
-    "recipe_id": "indian_recipe_002",
+    "recipe_id": "0013",
     "recipe_name": "Palak Paneer",
     "ingredients": ["spinach", "paneer", "spices", "cream", "tomatoes"],
     "cooking_method": " Blanch spinach and purée it. Frypaneer. Sauté spices and tomatoes. Add spinach purée and cream. Add fried paneer and serve hot with rice or naan.",
@@ -123,7 +123,7 @@
   },
   {
     "chef_id": 4,
-    "recipe_id": "indian_recipe_006",
+    "recipe_id": "0014",
     "recipe_name": "Matar Paneer",
     "ingredients": ["green peas", "paneer", "spices", "cream", "tomatoes"],
     "cooking_method": " Fry paneer. Sauté spices and tomatoes. Add green peas and simmer. Add cream and fried paneer. Serve hot with rice or naan.",
@@ -131,7 +131,7 @@
   },
   {
     "chef_id": 4,
-    "recipe_id": "indian_recipe_004",
+    "recipe_id": "0015",
     "recipe_name": "Biryani",
     "ingredients": ["rice", "chicken", "spices", "onion", "yogurt"],
     "cooking_method": " Marinate chicken in spices and yogurt. Fry onion and set aside. Cook rice and layer it with chicken and fried onion. Bake or steam biryani until rice is fluffy and chicken is cooked. Serve hot with raita and papadum.",
@@ -139,7 +139,7 @@
   },
   {
     "chef_id": 4,
-    "recipe_id": "indian_recipe_002",
+    "recipe_id": "0016",
     "recipe_name": "Palak Paneer",
     "ingredients": ["spinach", "paneer", "spices", "cream", "tomatoes"],
     "cooking_method": " Blanch spinach and purée it. Fry paneer. Sauté spices and tomatoes. Add spinach purée and cream. Add fried paneer and serve hot with rice or naan.",
@@ -147,7 +147,7 @@
   },
   {
     "chef_id": 5,
-    "recipe_id": "indian_recipe_006",
+    "recipe_id": "0017",
     "recipe_name": "Matar Paneer",
     "ingredients": ["green peas", "paneer", "spices", "cream", "tomatoes"],
     "cooking_method": " Fry paneer. Sauté spices and tomatoes. Add green peas and simmer. Add cream and fried paneer. Serve hot with rice or naan.",
@@ -155,7 +155,7 @@
   },
   {
     "chef_id": 5,
-    "recipe_id": "indian_recipe",
+    "recipe_id": "0018",
     "recipe_name": "Dal Curry",
     "ingredients": [
       "black lentils",
@@ -169,7 +169,7 @@
   },
   {
     "chef_id": 5,
-    "recipe_id": "indian_recipe_004",
+    "recipe_id": "0019",
     "recipe_name": "Morog Polao",
     "ingredients": ["rice", "chicken", "spices", "onion", "yogurt"],
     "cooking_method": " Marinate chicken in spices and yogurt. Fry onion and set aside. Cook rice and layer it with chicken and fried onion. Bake or steam biryani until rice is fluffy and chicken is cooked. Serve hot with raita and papadum.",
@@ -177,7 +177,7 @@
   },
   {
     "chef_id": 5,
-    "recipe_id": "indian_recipe_005",
+    "recipe_id": "0020",
     "recipe_name": "Samosas",
     "ingredients": ["potato", "peas", "spices", "flour", "oil"],
     "cooking_method": " Make dough with flour and water.  Cook potato and peas with spices.  Fill dough with potato mixture. Fry in oil.  Serve with tamarind chutney.",
@@ -185,7 +185,7 @@
   },
   {
     "chef_id": 6,
-    "recipe_id": "indian_recipe_06",
+    "recipe_id": "0021",
     "recipe_name": "Malai Kofta",
     "ingredients": ["potatoes", "paneer", "spices", "cream", "tomatoes"],
     "cooking_method": "Boil and mash potatoes and paneer. Add spices and form into balls. Fry the balls until they are golden brown. Sauté spices and tomatoes. Add cream and simmer. Add fried balls and serve hot with rice or naan.",
@@ -193,7 +193,7 @@
   },
   {
     "chef_id": 6,
-    "recipe_id": "indiecipe_006",
+    "recipe_id": "0022",
     "recipe_name": "Keema Matar",
     "ingredients": ["ground beef", "green peas", "spices", "onion", "tomatoes"],
     "cooking_method": " Sauté onion and spices. Add ground beef and cook until browned. Add tomatoes and simmer. Add green peas and cook until they are soft. Serve hot with rice or naan.",
@@ -201,7 +201,7 @@
   },
   {
     "chef_id": 6,
-    "recipe_id": "indian_recipe_042",
+    "recipe_id": "0023",
     "recipe_name": "Kheer",
     "ingredients": ["rice", "milk", "sugar", "cardamom", "nuts"],
     "cooking_method": " Cook rice in milk until it is soft. Add sugar and cardamom powder and simmer. Garnish with nuts and serve hot or chilled.",
@@ -209,7 +209,7 @@
   },
   {
     "chef_id": 6,
-    "recipe_id": "indian_recipe_041",
+    "recipe_id": "0024",
     "recipe_name": "Dosa",
     "ingredients": ["rice", "lentils", "oil", "potatoes", "chutney"],
     "cooking_method": "Soak rice and lentils separately overnight. Grind rice and lentils separately to make batter. Mix the batter and ferment for a few hours. Spread the batter on a hot griddle and cook until crispy. Serve with potato filling and chutney.",

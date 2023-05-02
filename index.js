@@ -11,11 +11,18 @@ app.get('/', (req, res)=>{
     res.send(chef);
 })
 
-app.get('/recipes', (req, res)=>{
-    res.send(recipes);
+app.get('/:id', (req, res)=>{
+    const id = req.params.id;
+    const chefData = chef.find(c => c.chef_id == id);
+    res.send(chefData);
 })
 
 
+app.get('/recipes/:id', (req, res)=>{
+    const id = req.params.id;
+    const selected = recipes.filter(r => r.chef_id == id);
+    res.send(selected);
+})
 
 
 
