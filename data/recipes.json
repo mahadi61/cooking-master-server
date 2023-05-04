@@ -1,5 +1,21 @@
 [
   {
+    "chef_id": 1,
+    "recipe_id": "0013",
+    "recipe_name": "Palak Paneer",
+    "ingredients": ["spinach", "paneer", "spices", "cream", "tomatoes"],
+    "cooking_method": " Blanch spinach and purée it. Frypaneer. Sauté spices and tomatoes. Add spinach purée and cream. Add fried paneer and serve hot with rice or naan.",
+    "rating": 4.3
+  },
+  {
+    "chef_id": 1,
+    "recipe_id": "0010",
+    "recipe_name": "Chana Masala",
+    "ingredients": ["chickpeas", "tomato", "onion", "spices", "lemon juice"],
+    "cooking_method": " Cook chickpeas until tender.  Simmer tomato, onion, and spices.  Add cooked chickpeas.  Serve with rice or naan.",
+    "rating": 4.4
+  },
+  {
     "recipe_id": "001",
     "chef_id": 1,
     "recipe_name": "Butter Chicken",
@@ -88,9 +104,10 @@
     "recipe_id": "0010",
     "recipe_name": "Chana Masala",
     "ingredients": ["chickpeas", "tomato", "onion", "spices", "lemon juice"],
-    "cooking_method": " Cook chickpeas until tender.  Simmer tomato, onion, and spices.  Add cooked chickpeas.  Serve with rice or naan.",
+    "cooking_method": " Cook chickpeas until tender.  Simmer tomato, onion, and spices.  Add cooked chickpeas.",
     "rating": 4.4
   },
+
   {
     "chef_id": 3,
     "recipe_id": "0011",
@@ -134,7 +151,7 @@
     "recipe_id": "0015",
     "recipe_name": "Biryani",
     "ingredients": ["rice", "chicken", "spices", "onion", "yogurt"],
-    "cooking_method": " Marinate chicken in spices and yogurt. Fry onion and set aside. Cook rice and layer it with chicken and fried onion. Bake or steam biryani until rice is fluffy and chicken is cooked. Serve hot with raita and papadum.",
+    "cooking_method": "Fry onion and set aside. Cook rice and layer it with chicken and fried onion. Bake or steam biryani until rice is fluffy and chicken is cooked.",
     "rating": 4.4
   },
   {
@@ -172,7 +189,7 @@
     "recipe_id": "0019",
     "recipe_name": "Morog Polao",
     "ingredients": ["rice", "chicken", "spices", "onion", "yogurt"],
-    "cooking_method": " Marinate chicken in spices and yogurt. Fry onion and set aside. Cook rice and layer it with chicken and fried onion. Bake or steam biryani until rice is fluffy and chicken is cooked. Serve hot with raita and papadum.",
+    "cooking_method": " Marinate chicken in spices and yogurt.Cook rice and layer it with chicken and fried onion. Bake or steam biryani until rice is fluffy and chicken is cooked. ",
     "rating": 4.4
   },
   {
@@ -188,7 +205,7 @@
     "recipe_id": "0021",
     "recipe_name": "Malai Kofta",
     "ingredients": ["potatoes", "paneer", "spices", "cream", "tomatoes"],
-    "cooking_method": "Boil and mash potatoes and paneer. Add spices and form into balls. Fry the balls until they are golden brown. Sauté spices and tomatoes. Add cream and simmer. Add fried balls and serve hot with rice or naan.",
+    "cooking_method": "Boil and mash potatoes and paneer. Add spices and form into balls. Fry the balls until they are golden brown. Sauté spices .",
     "rating": 4.5
   },
   {
@@ -196,7 +213,7 @@
     "recipe_id": "0022",
     "recipe_name": "Keema Matar",
     "ingredients": ["ground beef", "green peas", "spices", "onion", "tomatoes"],
-    "cooking_method": " Sauté onion and spices. Add ground beef and cook until browned. Add tomatoes and simmer. Add green peas and cook until they are soft. Serve hot with rice or naan.",
+    "cooking_method": " Sauté onion and spices. Add ground beef and cook until browned. Add tomatoes and simmer. Add green peas and cook until they are soft. ",
     "rating": 4.2
   },
   {
@@ -212,7 +229,31 @@
     "recipe_id": "0024",
     "recipe_name": "Dosa",
     "ingredients": ["rice", "lentils", "oil", "potatoes", "chutney"],
-    "cooking_method": "Soak rice and lentils separately overnight. Grind rice and lentils separately to make batter. Mix the batter and ferment for a few hours. Spread the batter on a hot griddle and cook until crispy.",
+    "cooking_method": "Soak rice and lentils separately overnight. Grind rice and lentils separately to make batter. Mix the batter and ferment for a few hours. ",
     "rating": 4.7
+  },
+  {
+    "chef_id": 3,
+    "recipe_id": "0024",
+    "recipe_name": "Dosa",
+    "ingredients": ["rice", "lentils", "oil", "potatoes", "chutney"],
+    "cooking_method": "Soak rice and lentils separately overnight. Grind rice and lentils separately to make batter. Mix the batter and ferment for a few hours. ",
+    "rating": 4.7
+  },
+  {
+    "chef_id": 3,
+    "recipe_id": "0021",
+    "recipe_name": "Malai Kofta",
+    "ingredients": ["potatoes", "paneer", "spices", "cream", "tomatoes"],
+    "cooking_method": "Boil and mash potatoes and paneer. Add spices and form into balls. Fry the balls until they are golden brown. Sauté spices. ",
+    "rating": 4.5
+  },
+  {
+    "chef_id": 6,
+    "recipe_id": "0014",
+    "recipe_name": "Matar Paneer",
+    "ingredients": ["green peas", "paneer", "spices", "cream", "tomatoes"],
+    "cooking_method": " Fry paneer. Sauté spices and tomatoes. Add green peas and simmer. Add cream and fried paneer. Serve hot with rice or naan.",
+    "rating": 4
   }
 ]
